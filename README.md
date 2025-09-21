@@ -2,14 +2,9 @@
 
 ## Getting started
 
-This is the starting point for your cvbuilder coursework. The last number in the repo name should match the last number in your student id (Knumber). 
+This is the starting point for your cvbuilder coursework. 
 
 # TB2 Software Development Coursework - CVBuilder App
-
-As part of Unit 2 - Software Application Development you have a [Java Software Application Development and Demo Assignment](https://canvas.kingston.ac.uk/courses/29973/pages/assessment-and-feedback-schedule-2) that is worth 30% of your total module mark.  There is a 'Coursework Assignment Brief' which details the Requirements and Assessment Criteria. It is important that you only do the Requirements (CV Sections) that are assigned to you according to the last number in your student id (Knumber). You are provided with some typical [data](./data/cv_repo_9.csv) to get you started with your application. The cvbuilder follows on from the Swing Portfolio Coursework that you did - in particular for the compulsory User Section of the CV. This is all discussed in the first workshop after EAW week [CI5105 TB2 Week 7 - Workshop](https://canvas.kingston.ac.uk/courses/29973/pages/topic-3-more-advanced-java)
- 
-
-You should follow a development process similar to the specified for your UserProfileBuilder i.e. you must develop your code in this repository with the correct use of KUGitlab with frequent commits and appropriate commit messages as you progress.
 
 # CV Builder App Start Code 
 
